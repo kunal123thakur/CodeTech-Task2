@@ -12,6 +12,7 @@ Here’s a README file template for your movie sentiment analysis project, simil
 - **Domain**: Machine Learning
 - **Duration**: July 20, 2024 - August 20, 2024
 - **Mentor**: Muzammil Ahmed
+![Screenshot 2024-08-15 032343](https://github.com/user-attachments/assets/1de0ce72-6065-4e9d-817b-fbe159ad5950)
 
 ## Overview
 
